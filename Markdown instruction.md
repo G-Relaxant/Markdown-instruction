@@ -57,3 +57,6 @@ SSD | Samsung 870 evo 500gb | 10499
 >>А это пример вложенной цитаты
 
 ## Заключение
+
+Составив эту инструкцию мы научились некоторым из правил синтаксиса Markdown, а так же работе в Visual Studio Code
+git commit branch conclusion
