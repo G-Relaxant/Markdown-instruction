@@ -37,7 +37,15 @@
 
 ## Работа с таблицами
 
-new branch tables
+Чтобы создать таблицу, нужно использовать как шаблон-подсказку следующий пример:
+
+Item | Model | Price
+:----|:-----:|------:
+M-board | Msi b450m mortar max | 5499
+CPU | Amd ryzen 3700X box | 22999
+RAM | Samsung 2666 8gb x2 | 6398
+GPU | PowerColor AMD Radeon RX 6600 Fighter 8gb | 39999
+SSD | Samsung 870 evo 500gb | 10499
 
 ## Цитаты
 
