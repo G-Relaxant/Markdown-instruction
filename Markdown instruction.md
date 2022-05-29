@@ -48,5 +48,5 @@ GPU | PowerColor AMD Radeon RX 6600 Fighter 8gb | 39999
 SSD | Samsung 870 evo 500gb | 10499
 
 ## Цитаты
-
+git commit after update to master
 ## Заключение
